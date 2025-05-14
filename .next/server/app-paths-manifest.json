@@ -1,0 +1,8 @@
+{
+  "/estacionamento/page": "app/estacionamento/page.js",
+  "/estacionamento/reserva/page": "app/estacionamento/reserva/page.js",
+  "/page": "app/page.js",
+  "/transfers/page": "app/transfers/page.js",
+  "/usuario/page": "app/usuario/page.js",
+  "/voos/page": "app/voos/page.js"
+}
